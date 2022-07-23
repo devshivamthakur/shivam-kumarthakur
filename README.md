@@ -72,8 +72,6 @@
  --- 
  
  
-
-|---|---|
  
  --- 
  
@@ -84,7 +82,6 @@
 
   
   <div align="center">
-<img src="https://github.com/kothariji/kothariji/blob/master/github-user-contribution.svg"></img>
 </div>
 
 <div align="center">
@@ -94,7 +91,7 @@
 </div>
 
 <div align="center">
- <img src="https://activity-graph.herokuapp.com/graph?username=amruta-07&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
+ <img src="https://activity-graph.herokuapp.com/graph?username=shivam-kumarthakur&bg_color=FFFFFF&color=000000&line=000000&point=00FF00"></div>
 
 
 
