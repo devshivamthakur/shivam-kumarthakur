@@ -38,7 +38,6 @@
  🔭 I’m currently working on App Development Projects.  
  🌱 I’m currently learning Best Practices for DSA and CP.  
  👯 I’m looking to collaborate on any App development Project and Backend development.  
-   🤔 I’m looking for help with Internship.  
  💬 Ask me about Programming.  
  📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shivam-kumar-thakur-598150170)  
  😄 Pronouns: You can give one.  
