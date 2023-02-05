@@ -50,6 +50,8 @@
 
  <img alt="Android" src="https://img.shields.io/badge/Android-%2314354C.svg?style=for-the-badge&logo=Android&logoColor=green"/>
   <img alt="React Native" src="https://img.shields.io/badge/react-native-%2314354C.svg?style=for-the-badge&logo=react&logoColor=blue"/>
+  <img alt="Meta Mask" src="https://img.shields.io/badge/meta-mask-%2314354C.svg?style=for-the-badge&logo=metamask&logoColor=blue"/>
+ 
  <img alt="mysql" src="https://img.shields.io/badge/MySql-%2314354C.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
